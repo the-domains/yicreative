@@ -1,14 +1,26 @@
-layout_spectrum: 0.1985933354590088
-typography_spectrum: 0.6900137786287814
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.7986577504780143
-  lightness: 0.7595361606217921
   saturation: 0.3920759125612676
-  rhythmicContrast: 0.3137215143069625
+  brandStrength: 0.9928315
+  lightness: 0.7595361606217921
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FEEA71'
+    - '#354657'
+    - '#EFA63F'
+    - '#846550'
+    - '#B5A49A'
+  rhythmicContrast: 0.3137215143069625
+typography_spectrum: 0.6900137786287814
+layout_spectrum: 0.8924731
 name: yicreative
