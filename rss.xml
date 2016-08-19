@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yi ]]></title>
+        <description><![CDATA[yi ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 16:16:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Heavy - Slave To Your Love]]></title>
+            <description><![CDATA[<article><h1>The Heavy - Slave To Your Love</h1><p>Filmed over 4 days in Los Angeles and Palm Springs, this video for The Heavy’s new release ‘Slave to your love’ was shot on the Sony FS7 and a7SII and culminated in a live show at The Roxy on Sunset Strip.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57c0d2500939dc67d61198b76729eb6d/croprotate.jpg?cropheight=279&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FQOPRjrvanWw%2Fhqdefault.jpg&x=0&y=41"></article>]]></description>
+            <link>https://youtu.be/QOPRjrvanWw</link>
+            <guid isPermaLink="false">acf58a8a-fd44-4b66-af75-c62312cde625</guid>
+            <pubDate>Fri, 19 Aug 2016 16:16:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
