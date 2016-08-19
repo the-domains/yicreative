@@ -15,6 +15,11 @@ author:
   name: Bren
   email: mark@yicreative.com
 name: yicreative
+style: taylor
+navigation:
+  - name: ANNIVERSARY GAMES 2016
+    id: 2162e3a5-69b6-4940-abac-0728708f7dab
+    type: content
 collections:
   - index:
       path: /
